@@ -20,7 +20,7 @@ class Solution {
     private double calHours(int[] piles, int k) {
         double hours = 0;
         for (int pile : piles) {
-            hours +=  (pile + k - 1) / k; 
+            hours +=  Math.ceil((double)pile / k); 
         }
         return hours;
     }
