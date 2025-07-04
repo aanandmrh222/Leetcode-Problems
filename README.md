@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1791-richest-customer-wealth](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
