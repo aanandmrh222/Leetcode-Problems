@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/1791-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
