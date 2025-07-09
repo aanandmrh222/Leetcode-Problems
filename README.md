@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
