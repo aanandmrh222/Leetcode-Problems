@@ -101,16 +101,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0975-range-sum-of-bst](https://github.com/aanandmrh222/Leetcode-Problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
